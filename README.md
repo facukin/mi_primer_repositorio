@@ -1,2 +1,2 @@
 
-Este es un hola mundo.
+nada
